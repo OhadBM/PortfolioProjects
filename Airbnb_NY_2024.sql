@@ -107,7 +107,7 @@ order by Avg_Reviews_Per_Month desc
 
 SELECT 
     COUNT(CASE 
-					WHEN availability_365 = 365 THEN 1 
-				END
-				) * 100.0 / COUNT(*) AS fully_available_pct
+		WHEN availability_365 = 365 THEN 1 
+	  END
+	) * 100.0 / COUNT(*) AS fully_available_pct
 from PortfolioProject..ListingsAirbnb24;
