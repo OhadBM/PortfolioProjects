@@ -1,7 +1,6 @@
 Airbnb Listings Data Analysis – New York City 2024
 
-Project Description 
-  
+Project Description  
 This project focuses on analyzing Airbnb listings data from New York City for the year 2024 to uncover insights regarding property prices, availability, and host activity. 
 The dataset contains more than 37,000 listings with information such as property details, location, price, reviews, and host information.
 
